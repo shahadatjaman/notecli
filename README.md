@@ -1,4 +1,4 @@
-# 📝 notecli
+# 📝 notetake
 
 A minimal CLI tool for taking notes directly from your terminal, organized as markdown files.
 
@@ -19,7 +19,7 @@ A minimal CLI tool for taking notes directly from your terminal, organized as ma
 ## 📦 Installation
 
 ```bash
-npm install -g notecli
+npm install -g notetake
 ```
 
 Make sure you have [Node.js](https://nodejs.org/) installed.
@@ -31,43 +31,43 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 ### ➕ Add a note
 
 ```bash
-notecli add "Fixed login bug for admin route"
+notetake add "Fixed login bug for admin route"
 ```
 
 ### 🔍 Find a note
 
 ```bash
-notecli find login
+notetake find login
 ```
 
 ### 📅 View today’s notes
 
 ```bash
-notecli today
+notetake today
 ```
 
 ### 🧠 Save a quick idea
 
 ```bash
-notecli idea "Auto-generate form UI from JSON schema"
+notetake idea "Auto-generate form UI from JSON schema"
 ```
 
 ### 📂 List all saved notes
 
 ```bash
-notecli list
+notetake list
 ```
 
 ---
 
 ## 🗃️ Notes Storage
 
-All notes are stored in a hidden `.notecli/` folder inside your current working directory.
+All notes are stored in a hidden `.notetake/` folder inside your current working directory.
 
 Example structure:
 
 ```
-.notecli/
+.notetake/
   ├── 2025-07-10.md
   ├── 2025-07-11.md
   ├── ideas.md
@@ -105,7 +105,7 @@ PRs are welcome! Feel free to submit ideas, bugs, or improvements.
 To contribute:
 
 ```bash
-git clone https://github.com/your-username/notecli.git
+git clone https://github.com/shahadatjaman/notecli.git
 cd notecli
 npm install
 ```
@@ -120,14 +120,13 @@ MIT License — do whatever you want with it!
 
 ## ✨ Author
 
-Made with ❤️ by [Shahadat Jaman](https://github.com/your-username)  
+Made with ❤️ by [Shahadat Jaman](https://shahadatjaman.vercel.app/)  
 For feedback or ideas: `open an issue` or DM me on GitHub.
 
 ---
 
 ## 🔗 Links
 
-- 📦 [NPM Package](https://www.npmjs.com/package/notecli)  
-- 💻 [GitHub Repo](https://github.com/your-username/notecli)  
-- 📽️ [YouTube Demo (coming soon)](#)
+- 📦 [NPM Package](https://www.npmjs.com/package/nodetake)  
+- 💻 [GitHub Repo](https://github.com/shahadatjaman/notecli)  
 

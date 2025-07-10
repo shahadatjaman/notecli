@@ -1,10 +1,32 @@
 {
-  "name": "notecli",
-  "version": "1.0.0",
+  "name": "nodetake",
+  "version": "1.0.2",
+  "description": "A CLI tool to take quick markdown notes from your terminal.",
   "bin": {
     "notecli": "./bin/index.js"
   },
   "type": "module",
+  "main": "./bin/index.js",
+  "keywords": [
+    "cli",
+    "note",
+    "notes",
+    "terminal",
+    "markdown",
+    "notecli",
+    "productivity",
+    "developer-tools"
+  ],
+  "author": "Shahadat Jaman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahadatjaman/notecli"
+  },
+  "bugs": {
+    "url": "https://github.com/shahadatjaman/notecli/issues"
+  },
+  "homepage": "https://github.com/shahadatjaman/notecli",
   "dependencies": {
     "chalk": "^5.4.1",
     "commander": "^11.1.0",
