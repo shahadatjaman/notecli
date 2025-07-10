@@ -1,0 +1,13 @@
+{
+  "name": "notecli",
+  "version": "1.0.0",
+  "bin": {
+    "notecli": "./bin/index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.3.0"
+  }
+}
