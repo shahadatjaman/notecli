@@ -19,7 +19,7 @@ A minimal CLI tool for taking notes directly from your terminal, organized as ma
 ## 📦 Installation
 
 ```bash
-npm install -g notetake
+npm install -g nodetake
 ```
 
 Make sure you have [Node.js](https://nodejs.org/) installed.
@@ -31,43 +31,43 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 ### ➕ Add a note
 
 ```bash
-notetake add "Fixed login bug for admin route"
+nodetake add "Fixed login bug for admin route"
 ```
 
 ### 🔍 Find a note
 
 ```bash
-notetake find login
+nodetake find login
 ```
 
 ### 📅 View today’s notes
 
 ```bash
-notetake today
+nodetake today
 ```
 
 ### 🧠 Save a quick idea
 
 ```bash
-notetake idea "Auto-generate form UI from JSON schema"
+nodetake idea "Auto-generate form UI from JSON schema"
 ```
 
 ### 📂 List all saved notes
 
 ```bash
-notetake list
+nodetake list
 ```
 
 ---
 
 ## 🗃️ Notes Storage
 
-All notes are stored in a hidden `.notetake/` folder inside your current working directory.
+All notes are stored in a hidden `.nodetake/` folder inside your current working directory.
 
 Example structure:
 
 ```
-.notetake/
+.nodetake/
   ├── 2025-07-10.md
   ├── 2025-07-11.md
   ├── ideas.md
