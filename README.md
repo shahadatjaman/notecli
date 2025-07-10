@@ -1,4 +1,4 @@
-# 📝 notetake
+# 📝 nodetake
 
 A minimal CLI tool for taking notes directly from your terminal, organized as markdown files.
 
