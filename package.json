@@ -30,6 +30,7 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "commander": "^11.1.0",
-    "fs-extra": "^11.3.0"
+    "fs-extra": "^11.3.0",
+    "nodetake": "^1.0.0"
   }
 }
