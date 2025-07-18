@@ -105,7 +105,7 @@ PRs are welcome! Feel free to submit ideas, bugs, or improvements.
 To contribute:
 
 ```bash
-git clone https://github.com/shahadatjaman/notecli.git
+git clone https://github.com/shax26/notecli.git
 cd notecli
 npm install
 ```
@@ -120,7 +120,7 @@ MIT License — do whatever you want with it!
 
 ## ✨ Author
 
-Made with ❤️ by [Shahadat Jaman](https://shahadatjaman.vercel.app/)  
+Made with ❤️ by [Shahadat Jaman](https://shax26.vercel.app/)  
 For feedback or ideas: `open an issue` or DM me on GitHub.
 
 ---
@@ -128,5 +128,5 @@ For feedback or ideas: `open an issue` or DM me on GitHub.
 ## 🔗 Links
 
 - 📦 [NPM Package](https://www.npmjs.com/package/nodetake)  
-- 💻 [GitHub Repo](https://github.com/shahadatjaman/notecli)  
+- 💻 [GitHub Repo](https://github.com/shax26/notecli)  
 
