@@ -1,22 +1,22 @@
-# 📝 nodetake
+# nodetake
 
 A minimal CLI tool for taking notes directly from your terminal, organized as markdown files.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Quickly add timestamped notes  
-- 🔍 Search notes by keyword  
-- 📅 View today’s notes  
-- 🧠 Save quick ideas separately  
-- 📁 Notes saved as Markdown (`.md`)  
-- 🗂️ Organized by date and category  
-- 🌙 Perfect for developers and terminal-lovers
+- Quickly add timestamped notes  
+- Search notes by keyword  
+- View today’s notes  
+- Save quick ideas separately  
+- Notes saved as Markdown (`.md`)  
+- Organized by date and category  
+- Perfect for developers and terminal-lovers
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 npm install -g nodetake
@@ -26,33 +26,33 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ---
 
-## 📘 Usage
+## Usage
 
-### ➕ Add a note
+### Add a note
 
 ```bash
 nodetake add "Fixed login bug for admin route"
 ```
 
-### 🔍 Find a note
+### Find a note
 
 ```bash
 nodetake find login
 ```
 
-### 📅 View today’s notes
+### View today’s notes
 
 ```bash
 nodetake today
 ```
 
-### 🧠 Save a quick idea
+### Save a quick idea
 
 ```bash
 nodetake idea "Auto-generate form UI from JSON schema"
 ```
 
-### 📂 List all saved notes
+### List all saved notes
 
 ```bash
 nodetake list
@@ -60,7 +60,7 @@ nodetake list
 
 ---
 
-## 🗃️ Notes Storage
+## Notes Storage
 
 All notes are stored in a hidden `.nodetake/` folder inside your current working directory.
 
@@ -77,28 +77,28 @@ You can version-control this folder or back it up to your cloud!
 
 ---
 
-## 🌟 Why notecli?
+## Why notecli?
 
 > Because sometimes, opening Notion or VSCode to jot down a line is just... too much.
 
-- 👨‍💻 Stay in your coding flow  
-- 🧠 Capture thoughts instantly  
-- 💾 Markdown format = easily portable and readable  
-- 🧩 Works well with Git, VSCode, and any Markdown viewer
+- Stay in your coding flow  
+- Capture thoughts instantly  
+- Markdown format = easily portable and readable  
+- Works well with Git, VSCode, and any Markdown viewer
 
 ---
 
 ## 🛠 Future Plans
 
-- ☁️ Cloud sync (Dropbox, Google Drive)  
-- 📊 Weekly summary view  
-- 🔒 Password-protected notes  
-- 📅 Calendar-based view  
-- 🔗 Git commit hook integration
+- Cloud sync (Dropbox, Google Drive)  
+- Weekly summary view  
+- Password-protected notes  
+- Calendar-based view  
+- Git commit hook integration
 
 ---
 
-## 🧑‍💻 Contributing
+## Contributing
 
 PRs are welcome! Feel free to submit ideas, bugs, or improvements.
 
@@ -112,21 +112,21 @@ npm install
 
 ---
 
-## 📜 License
+## License
 
 MIT License — do whatever you want with it!
 
 ---
 
-## ✨ Author
+## Author
 
 Made with ❤️ by [Shahadat Jaman](https://shax26.vercel.app/)  
 For feedback or ideas: `open an issue` or DM me on GitHub.
 
 ---
 
-## 🔗 Links
+## Links
 
-- 📦 [NPM Package](https://www.npmjs.com/package/nodetake)  
-- 💻 [GitHub Repo](https://github.com/shax26/notecli)  
+- [NPM Package](https://www.npmjs.com/package/nodetake)  
+- [GitHub Repo](https://github.com/shax26/notecli)  
 
